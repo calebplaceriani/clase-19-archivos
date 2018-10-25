@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540428938 source:/home/alumno/clase 19/main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	<string.h>
+
+1540426601 /home/alumno/clase 19/persona.h
+
+1540426838 source:/home/alumno/clase 19/persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	<string.h>
+
